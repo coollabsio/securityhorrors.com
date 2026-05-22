@@ -13,7 +13,7 @@ authorTwitter: heyandras
 date: "2026-05-20T00:08:00.000Z"
 image: /assets/github-malicious-extension-repo-breach.jpg
 category: security
-isNew: true
+isNew: false
 ---
 
 ---
